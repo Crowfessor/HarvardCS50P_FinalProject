@@ -1,7 +1,5 @@
 # STUDENT REGISTER SYSTEM
-#### Video Demo: <url>
 #### Description:
-
 The Student Register System is a command-line application written in Python that allows users to manage student records efficiently. The system stores student information including student numbers, names, classrooms, and grades in a CSV file, providing persistent storage across sessions.
 
 ## Project Structure
@@ -97,4 +95,5 @@ pytest test_project.py -v
 - pytest (for running tests)
 
 ---
+
 This project was created as the final project for CS50's Introduction to Programming with Python.
